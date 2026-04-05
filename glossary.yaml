@@ -241,5 +241,17 @@ general_terms:
     ru: "рельсовая пушка"
     notes: "Ryan's weapon. Electromagnetic projectile launcher."
 
+  - en: "Fisty / The Fisty Brothers"
+    ru: "Фисти / Братья Фисти"
+    notes: "Ryan's pisto-gauntlets. He named them. Transliterate — it's a proper name. писто-перчатки for generic reference."
+
+  - en: "Underdiver"
+    ru: "Глубинщица"
+    notes: "Submarine/bathysphere-themed character. Recurring (24 files). Translate — descriptive alias."
+
+  - en: "Blower"
+    ru: "Поддувала"
+    notes: "Sarin's nickname from Ryan. Gas-based Psycho. Preserves double meaning."
+
 # Add new entries as they appear during translation.
 # NEVER change an existing translation without updating all already-translated chapters.
