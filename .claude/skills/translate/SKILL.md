@@ -23,7 +23,12 @@ You are translating chapter $ARGUMENTS of "The Perfect Run" by Maxime J. Durand.
    source .venv/bin/activate && python scripts/validate_terms.py $ARGUMENTS
    ```
 7. **Update `chapters/manifest.json`** — fill in the `title_ru` field for this chapter.
-8. If the chapter introduces new terms not in the glossary, **add them to `glossary.yaml`** with notes.
+8. **Report new terms.** If the chapter introduces names, places, aliases, or recurring terms not in the glossary, **do NOT add them to `glossary.yaml` yourself.** Instead, write a file `chapters/ru/<chapter_number_padded>.terms.md` listing each new term as an EN→RU pair with a short note. Example:
+   ```
+   - Fisty → Фисти — Ryan's pisto-gauntlet name. Transliterated (proper noun).
+   - Blower → Поддувала — Ryan's nickname for Sarin. Preserves double meaning.
+   ```
+   The orchestrating agent will consolidate terms across chapters, resolve conflicts, and update the glossary.
 
 ## Core Principle
 
