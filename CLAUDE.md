@@ -5,7 +5,7 @@ English to Russian translation of Maxime J. Durand's "The Perfect Run".
 ## Structure
 
 ```
-chapters/en/     — 130 English chapter files (000.md–129.md)
+chapters/en/     — 130 English chapter files (001.md–130.md)
 chapters/ru/     — Russian translations (to be created)
 chapters/manifest.json — chapter metadata
 glossary.yaml    — term consistency glossary (source of truth)
