@@ -545,5 +545,289 @@ general_terms:
     ru: "Джемини"
     notes: "Meta-Gang member. Transliterate."
 
+  # --- Added from chapters 26–30 ---
+
+  - en: "Julie Costa"
+    ru: "Джули Коста"
+    notes: "Biologist with Green power. Bruno's wife."
+
+  - en: "Bruno Costa"
+    ru: "Бруно Коста"
+    notes: "Julie's husband. Knife-sharpening power."
+
+  - en: "Giulia"
+    ru: "Джулия"
+    notes: "Bruno and Julie's daughter (ch 26). Also orphan at Len's shelter (ch 30). Italian name."
+
+  - en: "Pythia"
+    ru: "Пифия"
+    notes: "Oracle-type Genome advising the Carnival."
+
+  - en: "Manic Plague"
+    ru: "Маниакальная Чума"
+    notes: "French Psycho. Descriptive alias."
+
+  - en: "Red Elixir"
+    ru: "Красный Эликсир"
+    notes: "Elixir color type (Leo's)."
+
+  - en: "Red Genome"
+    ru: "Красный Геном"
+    notes: "Genome color classification. Fire powers."
+
+  - en: "Paulie"
+    ru: "Поли"
+    notes: "Rust Town shopkeeper/arms dealer."
+
+  - en: "Rampage"
+    ru: "Рампейдж"
+    notes: "Genius-designed combat drug. Transliterate."
+
+  - en: "Ink Machine"
+    ru: "Чернильная Машина"
+    alias_en: "Inky Winky"
+    alias_ru: "Чернильная Фея"
+    notes: "Meta-Gang Psycho. Ryan's nickname 'Inky Winky' = Чернильная Фея."
+
+  - en: "Pale Guy"
+    ru: "Бледный"
+    notes: "Meta-Gang Psycho. Hairless, throws pool balls."
+
+  - en: "Incognito"
+    ru: "Инкогнито"
+    notes: "Faceless suited Psycho. Same word in Russian."
+
+  - en: "Rakshasa"
+    ru: "Ракшаса"
+    notes: "Jaguar hybrid Psycho. Transliterated from mythological name."
+
+  - en: "Purple World"
+    ru: "Фиолетовый Мир"
+    notes: "Dimension outside spacetime that Violet Genomes tap into."
+
+  - en: "New Babylon"
+    ru: "Новый Вавилон"
+    notes: "Len's cynical name for New Rome."
+
+  - en: "Shortie"
+    ru: "Коротышка"
+    notes: "Ryan's nickname for Len."
+
+  - en: "Romain"
+    ru: "Ромен"
+    notes: "Orphan boy at Len's shelter. French name."
+
+  - en: "Albus"
+    ru: "Альбус"
+    notes: "Orphan at Len's shelter."
+
+  - en: "Valeria"
+    ru: "Валерия"
+    notes: "Orphan girl at Len's shelter."
+
+  # --- Added from chapters 31–35 ---
+
+  - en: "Eugène-Henry von Schrodinger"
+    ru: "Эжен-Анри фон Шрёдингер"
+    notes: "Ryan's white Persian cat."
+
+  - en: "Dr. Tyrano"
+    ru: "Доктор Тирано"
+    notes: "Dynamis head scientist. Dinosaur obsession."
+
+  - en: "Mathias Martel"
+    ru: "Матиас Мартель"
+    notes: "Fortuna's boyfriend. Shroud's civilian identity."
+
+  - en: "Ceres"
+    ru: "Церера"
+    notes: "Narcinia's Olympian alias. Roman goddess."
+
+  - en: "Devilry"
+    ru: "Девилри"
+    notes: "Dynamis heavy hitter. Transliterate."
+
+  - en: "Luigi"
+    ru: "Луиджи"
+    notes: "Augusti member. Truth-teller."
+
+  - en: "Nash"
+    ru: "Нэш"
+    notes: "Sparrow's real name/nickname."
+
+  - en: "Lab Sixty-Six"
+    ru: "Лаборатория шестьдесят шесть"
+    notes: "Dynamis knockoff lab on 66th floor."
+
+  - en: "Living Sun"
+    ru: "Живое Солнце"
+    notes: "Leo Hargraves' alias/title."
+
+  - en: "Bone Daddy"
+    ru: "Костяной Папочка"
+    notes: "Ryan's nickname for Ghoul."
+
+  - en: "Happy Hole"
+    ru: "Весёлая Ямка"
+    notes: "Spot in Rust Town where druggies dump bodies."
+
+  # --- Added from chapters 36–40 ---
+
+  - en: "Janus"
+    ru: "Янус"
+    notes: "Augustus' real name."
+
+  - en: "Olympians"
+    ru: "Олимпийцы"
+    notes: "Collective name for Augusti Capos."
+
+  - en: "Alice Martel"
+    ru: "Алиса Мартель"
+    notes: "Pythia's real name."
+
+  - en: "Shining Knight"
+    ru: "Сияющий Рыцарь"
+    notes: "Carnival member. Female. Leader of Bavarian contingent."
+
+  - en: "Cossack"
+    ru: "Казак"
+    notes: "Carnival member. Power armor vigilante."
+
+  - en: "Stitch"
+    ru: "Стежок"
+    notes: "Carnival plague doctor Genome. Healer."
+
+  - en: "Nidhogg"
+    ru: "Нидхёгг"
+    notes: "Green Genome. Norse mythology name."
+
+  - en: "Calculator"
+    ru: "Калькулятор"
+    notes: "Blue Genome/Genius. Probability calculation."
+
+  - en: "Ace"
+    ru: "Эйс"
+    notes: "Carnival teleporter."
+
+  - en: "Mr. Wave"
+    ru: "Мистер Вейв"
+    notes: "Carnival member. Energy wavelength body."
+
+  - en: "Sidekick"
+    ru: "Сайдкик"
+    notes: "White Genome power enhancer."
+
+  - en: "Jesse"
+    ru: "Джесси"
+    notes: "Carnival member. Killed in battle against Mechron."
+
+  - en: "Kresnik"
+    ru: "Кресник"
+    notes: "White werewolf sibling. Slavic mythology."
+
+  - en: "Kudlak"
+    ru: "Кудлак"
+    notes: "Black werewolf sibling. Slavic mythology."
+
+  - en: "Asmodeus"
+    ru: "Асмодей"
+    notes: "Mechron's last Genome lieutenant. Russian demon naming tradition."
+
+  - en: "Kujata"
+    ru: "Куджата"
+    notes: "Mechron's orbital satellite weapon."
+
+  - en: "Bahamut"
+    ru: "Бахамут"
+    notes: "Mechron's orbital satellite weapon."
+
+  - en: "Akashic Records"
+    ru: "Хроники Акаши"
+    notes: "Universal data compendium. Source of Blue powers."
+
+  - en: "Blue World"
+    ru: "Синий Мир"
+    notes: "Dimension of pure intellect. Source of Genius powers."
+
+  - en: "Blue Genome"
+    ru: "Синий Геном"
+    notes: "Genome color classification. Genius type."
+
+  - en: "Green Genome"
+    ru: "Зелёный Геном"
+    notes: "Genome color classification. Nature/bio powers."
+
+  - en: "Adam the Ogre"
+    ru: "Адам Людоед"
+    notes: "Adam's full alias."
+
+  - en: "Sharif"
+    ru: "Шариф"
+    notes: "Jasmine's surname."
+
+  # --- Added from chapters 41–45 ---
+
+  - en: "Reload"
+    ru: "Рилоад"
+    notes: "Dynamis Violet hero with body/object time-rewind. Transliterate (alias like Quicksave)."
+
+  - en: "Windsweep"
+    ru: "Виндсвип"
+    notes: "Dynamis elite aeromancer. Template for Tempest knockoffs. Transliterate."
+
+  - en: "Tempest (knockoff)"
+    ru: "Темпест"
+    notes: "Knockoff Elixir type based on Windsweep. Transliterate."
+
+  - en: "François"
+    ru: "Франсуа"
+    notes: "Geist's real name. French name."
+
+  - en: "Blabbermouth"
+    ru: "Балабол"
+    notes: "Lanka's nickname for Ryan. Translate — descriptive nickname."
+
+  - en: "Apocalypse Suit"
+    ru: "Костюм Апокалипсиса"
+    notes: "Wardrobe's dangerous ultimate form. Translate."
+
+  - en: "caporegime"
+    ru: "капореджиме"
+    notes: "Mafia rank within Augusti, above capo. Italian loan."
+
+  # --- Added from chapters 46–50 ---
+
+  - en: "Mr. See-Through"
+    ru: "Мистер Прозрачный"
+    notes: "Ryan's nickname for Shroud. Translate — descriptive. 11 files."
+
+  - en: "Alchemo"
+    ru: "Алхемо"
+    notes: "Genius specializing in neural tech. Ryan's pre-war companion. Transliterate."
+
+  - en: "Braindead / Brainy"
+    ru: "Мозгляк"
+    notes: "Ryan's nickname for Alchemo. Pejorative diminutive from 'мозг' (brain)."
+
+  - en: "Tea"
+    ru: "Ти"
+    notes: "Name Ryan gave Alchemo's gynoid. Transliterate."
+
+  - en: "Saturn"
+    ru: "Сатурн"
+    notes: "Olympian rank within Augusti. 25 files."
+
+  - en: "Leonard"
+    ru: "Леонард"
+    notes: "Leo Hargraves' full first name."
+
+  - en: "Sorrento"
+    ru: "Сорренто"
+    notes: "Real Italian city south of New Rome."
+
+  - en: "Laura"
+    ru: "Лаура"
+    notes: "Wyvern's real first name."
+
 # Add new entries as they appear during translation.
 # NEVER change an existing translation without updating all already-translated chapters.
