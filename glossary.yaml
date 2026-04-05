@@ -253,5 +253,297 @@ general_terms:
     ru: "Поддувала"
     notes: "Sarin's nickname from Ryan. Gas-based Psycho. Preserves double meaning."
 
+  # --- Added from chapters 7–11 ---
+
+  - en: "Bloodstream"
+    ru: "Кровоток"
+    notes: "Freddie Sabino's Psycho alias. Translate — descriptive (body is made of blood)."
+
+  - en: "Freddie Sabino"
+    ru: "Фредди Сабино"
+    notes: "Len's father. Bloodstream's human name."
+
+  - en: "Cesare"
+    ru: "Чезаре"
+    notes: "Len's dead brother. Italian name, transliterate."
+
+  - en: "Wonderbox"
+    ru: "Чудо-Шкатулка"
+    notes: "Hexagonal containers with Elixirs sent by the Alchemist."
+
+  - en: "the Alchemist"
+    ru: "Алхимик"
+    notes: "Creator/distributor of Elixirs. Translate."
+
+  - en: "Last Easter"
+    ru: "Последняя Пасха"
+    notes: "Event that triggered the Genome Wars."
+
+  - en: "Riri"
+    ru: "Рири"
+    notes: "Len's nickname for Ryan."
+
+  - en: "Ki-jung (Hyun Ki-jung)"
+    ru: "Ки-джун (Хён Ки-джун)"
+    alias_en: "Chitter"
+    alias_ru: "Читтер"
+    notes: "Jamie's girlfriend. Rat telepath Genome. Korean name."
+
+  - en: "Lanka"
+    ru: "Ланка"
+    alias_en: "Sphere"
+    alias_ru: "Сфера"
+    notes: "Augusti member. Energy sphere power."
+
+  - en: "Jamie Cutter"
+    ru: "Джейми Каттер"
+    notes: "Zanbato's real name."
+
+  - en: "Mercury"
+    ru: "Меркурий"
+    notes: "Augusti capo. Gambling/logistics division."
+
+  - en: "Geist"
+    ru: "Гайст"
+    notes: "Flying invisible Genome. Yellow Elixir user. Transliterate from German."
+
+  - en: "Mosquito"
+    ru: "Москито"
+    notes: "Flying Genome. Transliterate."
+
+  - en: "Pluto"
+    ru: "Плутон"
+    notes: "Augustus' sister and underboss. Death power."
+
+  - en: "Neptune"
+    ru: "Нептун"
+    notes: "Augustus' sibling, consigliere."
+
+  - en: "the Panda"
+    ru: "Панда"
+    notes: "Solo hero who transforms into a giant panda."
+
+  - en: "Atom Cat"
+    ru: "Атом Кэт"
+    notes: "Young Genome. Turns anything into a bomb via skin contact. Transliterate."
+
+  - en: "Made Men"
+    ru: "Посвящённые"
+    notes: "Fully initiated Augusti members. Mafia term."
+
+  - en: "capo"
+    ru: "капо"
+    notes: "Mafia rank within Augusti. Italian loan."
+
+  - en: "Killer Seven"
+    ru: "Убийственная Семёрка"
+    notes: "Augusti hit squad. Translate."
+
+  - en: "Mount Augustus"
+    ru: "Гора Августа"
+    notes: "Geographic landmark in New Rome."
+
+  - en: "Old Harbor"
+    ru: "Старый Порт"
+    notes: "Location in New Rome."
+
+  - en: "Little Maghreb"
+    ru: "Маленький Магриб"
+    notes: "Neighborhood in New Rome."
+
+  - en: "the Armory"
+    ru: "Арсенал"
+    notes: "Vulcan's foundry/HQ building."
+
+  - en: "Star Studios"
+    ru: "Стар Студиос"
+    notes: "Dynamis film studio east of New Rome."
+
+  - en: "Chronoradio"
+    ru: "Хронорадио"
+    notes: "Ryan's radio that receives broadcasts across space and time."
+
+  - en: "Perfect Run"
+    ru: "Идеальное Прохождение"
+    notes: "Ryan's term for his ultimate goal loop. Video game term."
+
+  - en: "Optimates Tower"
+    ru: "башня Оптиматов"
+    notes: "Il Migliore's HQ building."
+
+  - en: "Blackthorn"
+    ru: "Блэкторн"
+    notes: "Enrique Manada's superhero alias. Transliterate."
+
+  - en: "Pro-League"
+    ru: "Про-Лига"
+    notes: "Il Migliore's senior division."
+
+  - en: "Little League"
+    ru: "Младшая Лига"
+    notes: "Il Migliore's junior division for newcomers."
+
+  - en: "Timelord"
+    ru: "Повелитель Времени"
+    notes: "Marketing name proposed for Ryan. Translate — meant to sound catchy."
+
+  - en: "Violet Genome"
+    ru: "Фиолетовый Геном"
+    notes: "Genome color classification. Ryan's type."
+
+  - en: "Yellow Elixir"
+    ru: "Жёлтый Эликсир"
+    notes: "Elixir type granting conceptual powers."
+
+  - en: "Invisibility Elixir"
+    ru: "Эликсир Невидимости"
+    notes: "Dynamis product."
+
+  # --- Added from chapters 12–16 ---
+
+  - en: "Hector Manada"
+    ru: "Гектор Манада"
+    notes: "CEO/founder of Dynamis. Enrique's father."
+
+  - en: "Alphonse (Manada)"
+    ru: "Альфонс (Манада)"
+    notes: "Enrique's brother."
+
+  - en: "Frank the Mad"
+    ru: "Фрэнк Безумный"
+    notes: "Meta-Gang lieutenant."
+
+  - en: "Mars"
+    ru: "Марс"
+    notes: "Augusti capo. Atom Cat's parent."
+
+  - en: "Venus"
+    ru: "Венера"
+    notes: "Augusti capo. Atom Cat's parent."
+
+  - en: "Mongrel"
+    ru: "Дворняга"
+    notes: "Meta-Gang Psycho. Translate — descriptive alias. Declines: Дворняги (gen), Дворняге (dat), Дворнягу (acc)."
+
+  - en: "Fortuna"
+    ru: "Фортуна"
+    notes: "Atom Cat's sister. Augusti member."
+
+  - en: "Narcinia"
+    ru: "Нарциния"
+    notes: "Atom Cat's sister. Augusti member."
+
+  - en: "Livia"
+    ru: "Ливия"
+    notes: "Augusti contact. Italian name."
+
+  - en: "Sarah"
+    ru: "Сара"
+    notes: "Orphan girl at Rust Town shelter."
+
+  - en: "Mongrel"
+    ru: "Дворняга"
+    notes: "Meta-Gang Psycho. Translate — descriptive alias."
+
+  - en: "Lightbulb"
+    ru: "Лампочка"
+    notes: "Ryan's mocking nickname for Psyshock."
+
+  - en: "Quickie"
+    ru: "Квикки"
+    notes: "Atom Cat's nickname for Ryan. Preserves suggestive double meaning."
+
+  - en: "Wyvy"
+    ru: "Вайви"
+    notes: "Ryan's nickname for Wyvern."
+
+  - en: "Felix"
+    ru: "Феликс"
+    notes: "Atom Cat's real name."
+
+  - en: "the Land"
+    ru: "Ланд"
+    notes: "Lone wolf Psycho recruited by Meta-Gang."
+
+  - en: "the Punisher"
+    ru: "Каратель"
+    notes: "Ryan's reference to mystery assassin. Standard Russian for Marvel's Punisher."
+
+  - en: "Ischia"
+    ru: "Искья"
+    notes: "Island with Augusti fortress-lab. Real Italian island."
+
+  - en: "Orange Genome"
+    ru: "Оранжевый Геном"
+    notes: "Genome color classification. Shroud's type."
+
+  # --- Added from chapters 17–20 ---
+
+  - en: "Blue Elixir"
+    ru: "Синий ��ликсир"
+    notes: "Elixir type granting Genius-class powers."
+
+  - en: "Cancel"
+    ru: "Кансел"
+    notes: "Pluto's power negator. White Genome. NOT the bodyguard (that's Sparrow). Transliterate."
+
+  - en: "bathysphere"
+    ru: "батисфера"
+    notes: "Deep-sea submersible. Established in ch 3. Feminine gender."
+
+  - en: "ship graveyard"
+    ru: "кладбище кораблей"
+    notes: "Location between Rust Town and Old Harbor. Shroud's base area."
+
+  - en: "Hercules (knockoff)"
+    ru: "Геркулес"
+    notes: "Dynamis knockoff Elixir granting superhuman strength."
+
+  # --- Added from chapters 21–25 ---
+
+  - en: "Sparrow"
+    ru: "Воробей"
+    notes: "Pluto's bodyguard. Killer Seven member. Translate — bird name."
+
+  - en: "Greta"
+    ru: "Грета"
+    notes: "Cancel's real name. Bulgarian origin."
+
+  - en: "Minerva"
+    ru: "Минерва"
+    notes: "Pluto's niece. Blue Genome."
+
+  - en: "White Genome"
+    ru: "Белый Геном"
+    notes: "Genome color classification. Cancel's type — negates powers."
+
+  - en: "Bacchus"
+    ru: "Вакх"
+    notes: "Augusti capo running drug division. Real name Andreas Torque."
+
+  - en: "Andreas Torque"
+    ru: "Андреас Торк"
+    notes: "Bacchus' real name."
+
+  - en: "Vamp"
+    ru: "Вамп"
+    notes: "Killer Seven member. Green Genome."
+
+  - en: "Mortimer / Morty"
+    ru: "Мортимер / Морти"
+    notes: "Killer Seven phasing hitman."
+
+  - en: "Night Terror"
+    ru: "Ночной Ужас"
+    notes: "Killer Seven member. Power works only in darkness."
+
+  - en: "Firebrand (knockoff)"
+    ru: "Файрбранд"
+    notes: "Knockoff Elixir granting pyrokinesis. Transliterate."
+
+  - en: "Gemini"
+    ru: "Джемини"
+    notes: "Meta-Gang member. Transliterate."
+
 # Add new entries as they appear during translation.
 # NEVER change an existing translation without updating all already-translated chapters.
