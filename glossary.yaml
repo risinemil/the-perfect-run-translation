@@ -1,0 +1,245 @@
+# glossary.yaml — The Perfect Run EN→RU Translation Glossary
+# Single source of truth for term consistency.
+# NEVER change an existing translation without updating all already-translated chapters.
+
+# ============================================================================
+# CHARACTERS
+# ============================================================================
+characters:
+  # --- Main Characters ---
+  - en: "Ryan Romano"
+    ru: "Райан Романо"
+    short: "Райан"
+    alias_en: "Quicksave"
+    alias_ru: "Квиксейв"
+    notes: "Protagonist. Time-looper. Alias 'Quicksave' = быстрое сохранение (video game term). Transliterate alias."
+
+  - en: "Len"
+    ru: "Лен"
+    full_en: "Henrietta Martel"
+    full_ru: "Генриетта Мартель"
+    notes: "Ryan's oldest friend. Genius-type Genome. Communist ideology."
+
+  - en: "Jasmine"
+    ru: "Жасмин"
+    notes: "Jasmine = жасмин (the flower). Wyvern's civilian identity."
+
+  - en: "Wyvern"
+    ru: "Виверна"
+    notes: "Jasmine's superhero alias. One of New Rome's strongest heroes."
+
+  # --- Dynamis ---
+  - en: "Enrique Manada"
+    ru: "Энрике Манада"
+    alias_en: "Lightning Butt"
+    alias_ru: "Молниезадый"
+    notes: "Dynamis heir. Ryan's nickname for him."
+
+  - en: "Augustus"
+    ru: "Август"
+    notes: "Head of Dynamis. Jasmine/Wyvern's father."
+
+  # --- Il Migliore (The Meta-Gang) ---
+  - en: "Adam"
+    ru: "Адам"
+    notes: "Leader of the Meta-Gang. Main antagonist."
+
+  - en: "the Undead"
+    ru: "Нежить"
+    notes: "Ice-powered Psycho working for Adam. Skeletal appearance."
+
+  - en: "Acid Rain"
+    ru: "Кислотный Дождь"
+    notes: "Psycho. Acid manipulation."
+
+  - en: "Psyshock"
+    ru: "Псишок"
+    notes: "Psycho. Mental powers."
+
+  - en: "Hannifat Lecter"
+    ru: "Ханнифат Лектер"
+    notes: "Psycho. Name is a pun on Hannibal Lecter + fat."
+
+  - en: "Sarin"
+    ru: "Зарин"
+    notes: "Psycho. Named after the nerve gas."
+
+  # --- Other Characters ---
+  - en: "Mechron"
+    ru: "Мехрон"
+    notes: "The genius who created the Elixirs and caused the Genome Wars."
+
+  - en: "Renesco"
+    ru: "Ренеско"
+    notes: "Barman. Reference to Fallout 2 character."
+
+  - en: "Vulcan"
+    ru: "Вулкан"
+    notes: "Fire-powered hero."
+
+  - en: "Shroud"
+    ru: "Саван"
+    notes: "Darkness-powered hero. Translate — 'shroud' = саван."
+
+  - en: "Wardrobe"
+    ru: "Гардероб"
+    notes: "Shapeshifting hero. Translate — 'wardrobe' = гардероб."
+
+  - en: "Ghoul"
+    ru: "Гуль"
+    notes: "Meta-Gang member. Transliterate."
+
+  - en: "Zanbato"
+    ru: "Занбато"
+    notes: "Augusti member. Samurai-themed Genome. Italian, not Japanese."
+
+  - en: "Leo Hargraves"
+    ru: "Лео Харгрейвс"
+    notes: "Leader of the Carnival. Legendary superhero."
+
+# ============================================================================
+# PLACES
+# ============================================================================
+places:
+  - en: "New Rome"
+    ru: "Нью-Ром"
+    notes: "Main setting. Built on the ruins of Naples. Capital of sin."
+
+  - en: "Rust Town"
+    ru: "Ржавый Город"
+    notes: "Northern slum district. Translate — descriptive name."
+
+  - en: "the Junkyard"
+    ru: "Свалка"
+    notes: "Dangerous area in Rust Town."
+
+  - en: "Golden Coast"
+    ru: "Золотой Берег"
+    notes: "Tourist/casino district. Translate — descriptive name."
+
+  - en: "Dynamis Tower"
+    ru: "Башня Динамис"
+    notes: "Corporate HQ. Glass spire north of the city."
+
+  - en: "Colosseum Maximus"
+    ru: "Колизей Максимус"
+    notes: "Modern replica arena."
+
+  - en: "the Midnight Market"
+    ru: "Полуночный Рынок"
+    notes: "Underground black market."
+
+  - en: "the Bakuto"
+    ru: "Бакуто"
+    notes: "Casino owned by the Augusti."
+
+# ============================================================================
+# POWERS & GENOME SYSTEM
+# ============================================================================
+powers:
+  - en: "Genome"
+    ru: "Геном"
+    notes: "A person with superpowers gained from Elixirs. Central term."
+
+  - en: "Elixir"
+    ru: "Эликсир"
+    notes: "Substance that grants superpowers. Multiple types exist."
+
+  - en: "Psycho"
+    ru: "Псих"
+    notes: "A Genome who has gone insane from their Elixir. Villainous designation."
+
+  - en: "knockoff"
+    ru: "подделка"
+    notes: "Cheap/inferior version of an Elixir. Gives weaker powers."
+
+  - en: "Bliss"
+    ru: "Блаженство"
+    notes: "Addictive drug. Translate — it's a meaningful name."
+
+  - en: "save point"
+    ru: "точка сохранения"
+    notes: "Ryan's time-loop anchor. Video game term."
+
+  - en: "time-stop"
+    ru: "остановка времени"
+    notes: "Ryan's secondary power. Requires conscious activation."
+
+  - en: "enhanced timing sense"
+    ru: "обострённое чувство времени"
+    notes: "Ryan's tertiary power. Only works on events already lived through."
+
+  - en: "Genius"
+    ru: "Гений"
+    notes: "Genome type specializing in invention/technology. Their creations are 'Genius-made'."
+
+  - en: "Genome Wars"
+    ru: "Геномные Войны"
+    notes: "The apocalyptic conflict caused by Elixirs spreading."
+
+# ============================================================================
+# ORGANIZATIONS & FACTIONS
+# ============================================================================
+organizations:
+  - en: "Dynamis"
+    ru: "Динамис"
+    notes: "Megacorporation controlling New Rome. Sells Elixirs."
+
+  - en: "the Meta-Gang"
+    ru: "Мета-Банда"
+    notes: "Adam's criminal organization. Also called 'Il Migliore'."
+
+  - en: "Il Migliore"
+    ru: "Иль Мильоре"
+    notes: "Italian name for the Meta-Gang. Means 'The Best'."
+
+  - en: "the Augusti"
+    ru: "Августы"
+    notes: "Dynamis ruling family/faction."
+
+  - en: "the Carnival"
+    ru: "Карнавал"
+    notes: "Leo Hargraves' superhero group. Pro-bono heroes."
+
+  - en: "Private Security"
+    ru: "Частная Охрана"
+    notes: "New Rome's private security force."
+
+# ============================================================================
+# GENERAL TERMS
+# ============================================================================
+general_terms:
+  - en: "courier"
+    ru: "курьер"
+    notes: "Ryan's cover job."
+
+  - en: "loop"
+    ru: "петля"
+    notes: "One iteration of Ryan's time loop."
+
+  - en: "save"
+    ru: "сохранение"
+    notes: "The act of creating a save point."
+
+  - en: "load"
+    ru: "загрузка"
+    notes: "Returning to a save point (dying or choosing to reset)."
+
+  - en: "Plymouth Fury"
+    ru: "Плимут Фьюри"
+    notes: "Ryan's car. Real car model — transliterate."
+
+  - en: "white rabbit plushie"
+    ru: "плюшевый белый кролик"
+    notes: "Ryan's signature item. Recurring motif."
+
+  - en: "Dynanet"
+    ru: "Дайнанет"
+    notes: "Local internet/network in New Rome."
+
+  - en: "coil gun"
+    ru: "рельсовая пушка"
+    notes: "Ryan's weapon. Electromagnetic projectile launcher."
+
+# Add new entries as they appear during translation.
+# NEVER change an existing translation without updating all already-translated chapters.
