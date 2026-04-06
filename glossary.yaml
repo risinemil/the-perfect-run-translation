@@ -829,5 +829,45 @@ general_terms:
     ru: "Лаура"
     notes: "Wyvern's real first name."
 
+  # --- Added from chapters 51–55 ---
+
+  - en: "Yukiko / Yuki"
+    ru: "Юкико / Юки"
+    notes: "Wardrobe's real name. Japanese. 16 files."
+
+  - en: "Timmy"
+    ru: "Тимми"
+    notes: "The Panda's real name. 12 files."
+
+  - en: "Sifu"
+    ru: "Сифу"
+    notes: "The Panda's title for Ryan. Chinese martial arts term. 23 files."
+
+  - en: "Sol Street"
+    ru: "Улица Солнца"
+    notes: "Shopping district in New Rome. Translate."
+
+  - en: "Dragon Mom"
+    ru: "Мамочка-Дракон"
+    notes: "Ryan's nickname for Wyvern."
+
+  # --- Added from chapters 57–60 ---
+
+  - en: "Fallout"
+    ru: "Фоллаут"
+    notes: "Alphonse Manada's alias. VP of Dynamis. Transliterate. 24 files."
+
+  - en: "Lucky Girl"
+    ru: "Везучая Девочка"
+    notes: "Ryan's nickname for Fortuna. Translate. 18 files."
+
+  - en: "Juno"
+    ru: "Юнона"
+    notes: "Augustus' deceased wife. Roman goddess name."
+
+  - en: "Diana"
+    ru: "Диана"
+    notes: "Augusti rank/title. Roman goddess name."
+
 # Add new entries as they appear during translation.
 # NEVER change an existing translation without updating all already-translated chapters.
